@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Data": [
+    {
+      "name": "astha",
+      "email": "astha@1234",
+      "id": 1
+    },
+    {
+      "name": "sandhya",
+      "email": "sandhya@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "surbhi",
+      "email": "surbhi@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "shrddha ",
+      "email": "shrddha@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "SAMBHAV",
+      "email": "SAMBHAV@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "shrvani",
+      "email": "shrvani@123",
+      "id": 7
+    },
+    {
+      "name": "sandhya",
+      "email": "sandhya@123",
+      "id": 8
+    },
+    {
+      "name": "devi",
+      "email": "devi@123",
+      "id": 9
+    },
+    {
+      "name": "nivedita",
+      "email": "nivedita@123",
+      "id": 10
+    },
+    {
+      "name": "deepika",
+      "email": "deepika@123",
+      "id": 11
+    },
+    {
+      "name": "shrddha",
+      "email": "shrddha@123",
+      "id": 12
+    },
+    {
+      "name": "ram",
+      "email": "ram@123",
+      "id": 13
+    },
+    {
+      "name": "mona",
+      "email": "mona@123",
+      "id": 14
+    },
+    {
+      "name": "yug",
+      "email": "yug@123",
+      "id": 15
+    }
+  ]
+}
